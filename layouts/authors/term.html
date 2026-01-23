@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="universal-wrapper pt-3">
+  
+  {{/* Profile Header */}}
+  <div class="row mb-5">
+    <div class="col-12 col-md-3 text-center text-md-start">
+      {{ $avatar := .Resources.GetMatch "avatar*" }}
+      {{ if $avatar }}
+        {{ $avatar_image := $avatar.Fill "400x400 Center" }}
+        <img src="{{ $avatar_image.RelPermalink }}" alt="{{ .Title }}" class="avatar img-fluid rounded" style="width: 250px; height: 250px; object-fit: cover;">
+      {{ end }}
+    </div>
+    
+    <div class="col-12 col-md-9 d-flex flex-column justify-content-center">
+      <h1 class="mb-3" style="font-weight: 700; font-size: 1.8rem; color: #1e3a8a; text-align: left;">{{ .Title }}</h1>
+      
+      {{ with .Params.role }}
+      <div class="mb-2" style="font-size: 1.25rem; font-weight: 500;">{{ . }}</div>
+      {{ end }}
+      
+      {{ with .Params.organizations }}
+      <div class="mb-3" style="font-size: 1.1rem;">
+        {{ range . }}
+        <div class="mb-1">{{ .name }}</div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <div class="mb-3" style="font-size: 1.1rem;">
+        {{ if .Params.email }}
+        <div class="d-flex align-items-center">
+          <i class="fas fa-envelope me-2" style="color: #666;"></i> 
+          <a href="mailto:{{ .Params.email }}" style="color: #333; text-decoration: none; font-weight: 500;">{{ .Params.email }}</a>
+        </div>
+        {{ end }}
+      </div>
+
+      {{/* Social Icons */}}
+      <div class="d-flex flex-wrap">
+        {{ range .Params.social }}
+          {{ if ne .icon "envelope" }}
+          <a href="{{ .link }}" target="_blank" rel="noopener" class="me-3" style="color: #1e3a8a; font-size: 1.5rem;">
+            <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
+          </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  {{/* Main Content (Bio, Soft Copyrights, Patents, etc.) */}}
+  <div class="row">
+    <div class="col-12">
+      <div class="article-style">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+
+</div>
+{{ end }}

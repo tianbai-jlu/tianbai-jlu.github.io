@@ -1,0 +1,52 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper {
+  max-width: 2100px;
+}
+
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+// Hide "Latest" widget at bottom of author profile page
+#profile-page .article-widget.content-widget-hr {
+  display: none;
+}
+
+// Show plain email address instead of icon on author profile
+// #profile-page .network-icon li:first-child a i {
+//   display: none;
+// }
+//
+// #profile-page .network-icon li:first-child a::after {
+//   content: "baitian@jlu.edu.cn";
+//   font-size: 0.95rem;
+// }
+
+.article-container {
+  max-width: 1200px;
+}
+
+// Hide share buttons
+.share-box {
+  display: none !important;
+}
+
+// Center article titles (e.g. Publications)
+.article-title {
+  text-align: center;
+}
+
+// Beautify Navbar Title
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif; /* 使用现代无衬线字体 */
+  font-weight: 700; /* 加粗 */
+  font-size: 1.5rem; /* 调大字号 */
+  color: #1e3a8a !important; /* 使用实验室主题深蓝色 */
+  letter-spacing: 0.5px; /* 增加字间距 */
+  // text-transform: uppercase; /* 可选：全大写显得更正式 */
+}
