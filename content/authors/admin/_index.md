@@ -81,7 +81,13 @@ user_groups:
       <li>
         <i class="fa-li fas fa-graduation-cap"></i>
         <div class="description">
-          <p class="course">吉林大学，软件工程专业，学士，2006</p>
+          <p class="course">吉林大学，计算机应用技术专业，博士，2012</p>
+        </div>
+      </li>
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course">美国新泽西州立大学，联合培养博士，2010-2011</p>
         </div>
       </li>
       <li>
@@ -93,13 +99,7 @@ user_groups:
       <li>
         <i class="fa-li fas fa-graduation-cap"></i>
         <div class="description">
-          <p class="course">吉林大学，计算机应用技术专业，博士，2012</p>
-        </div>
-      </li>
-      <li>
-        <i class="fa-li fas fa-graduation-cap"></i>
-        <div class="description">
-          <p class="course">美国新泽西州立大学，联合培养博士，2010-2011</p>
+          <p class="course">吉林大学，软件工程专业，学士，2006</p>
         </div>
       </li>
     </ul>
@@ -111,7 +111,7 @@ user_groups:
       <li>
         <i class="fa-li fas fa-briefcase"></i>
         <div class="description">
-          <p class="course">吉林大学，计算机科学与技术学院，讲师，2012-2016</p>
+          <p class="course">吉林大学，计算机科学与技术学院，教授，2021-至今</p>
         </div>
       </li>
       <li>
@@ -123,7 +123,7 @@ user_groups:
       <li>
         <i class="fa-li fas fa-briefcase"></i>
         <div class="description">
-          <p class="course">吉林大学，计算机科学与技术学院，教授，2021-至今</p>
+          <p class="course">吉林大学，计算机科学与技术学院，讲师，2012-2016</p>
         </div>
       </li>
     </ul>

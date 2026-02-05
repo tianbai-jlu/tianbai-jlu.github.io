@@ -99,7 +99,7 @@ sections:
       title: ""
       subtitle: ""
       text: |-
-        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">Postdoctoral Researcher</h2>
+        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px; text-align: center;">Postdoctoral Researcher</h2>
         <div class="lab-member-grid">
           <!-- 学生1 -->
           <div class="lab-member-item">
@@ -108,7 +108,7 @@ sections:
           </div>
         </div>
         
-        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">PhD Student</h2>
+        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px; text-align: center;">PhD Student</h2>
         <div class="lab-member-grid">
           <!-- 学生1 -->
           <div class="lab-member-item">
@@ -132,7 +132,7 @@ sections:
           </div>
         </div>
         
-        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px;">Master Student</h2>
+        <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px; text-align: center;">Master Student</h2>
         <div class="lab-member-grid">
           <!-- 学生1 -->
           <div class="lab-member-item">
