@@ -139,6 +139,8 @@ user_groups:
   <div class="cv-content">
     <table>
       <tbody>
+        <tr><td>02/2026</td><td>A paper is accepted in <em><strong>CVPR 2026</strong></em>.</td></tr>
+        <tr><td>02/2026</td><td>A paper is accepted in <em><strong>IEEE Journal of Biomedical and Health Informatics</strong></em>.</td></tr>
         <tr><td>11/2025</td><td>A paper is accepted in <em><strong>AAAI 2026</strong></em>.</td></tr>
         <tr><td>10/2025</td><td>A paper is accepted in <em><strong>IEEE Transactions on Multimedia</strong></em>.</td></tr>
         <tr><td>10/2025</td><td>A paper is accepted in <em><strong>MM 2025</strong></em>.</td></tr>
