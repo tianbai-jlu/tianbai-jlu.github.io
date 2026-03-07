@@ -28,11 +28,11 @@ h1 {
 
 4. **RWKV-Inspired Multi-model Relation Modeling for Vision-Language Tracking**  
    Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai*  
-   accepted to *IEEE Transactions on Multimedia*, 2025.(中科院1区)
+   accepted to *IEEE Transactions on Multimedia*, 2025.(CCF A,中科院1区)
 
 5. **Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction**  
    Peng Ren, Cheng Jiang, Fuming Sun, Tian Bai*     
-   accepted to *IEEE Transactions on Multimedia*, 2025.(中科院1区)
+   accepted to *IEEE Transactions on Multimedia*, 2025.(CCF A,中科院1区)
 
 6. **HyperDTI-Lite: Hyperbolic Geometry for Enhanced Drug-Target Interaction Prediction via Heterogeneous Feature Fusion**  
    Haotian Guan, Tian Bai, Tao Zhang, Chuande Yang, Jingtong Zhao, Han Wang*     
@@ -102,23 +102,27 @@ h1 {
     Fengzhi Zhao, Zhezhou Yu, He Zhao, Tao Wang, Tian Bai*  
     accepted to *Applied Intelligence*, 2024.(中科院2区)   
 
-23. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
+23. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
+    Tian Bai*, Jiayu Xu, Zhenting Zhang, Shuyu Guo, Xiao Luo  
+    accepted to *Bioinformatics*, 2023.(CCF A)
+
+24. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
     Shuyu Guo, Lan Huang, Lang Li, Tian Bai*  
     accepted to *2023 IEEE International Conference on Medical Artificial Intelligence*, 2023.
 
-24. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
+25. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
     Tian Bai, Chu Li, Xinyue Peng, Haotian Guan, Zefan Zhang, Guishen Wang*  
     accepted to *BIBM*, 2023.(CCF B)
 
-25. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
+26. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
     Zhe Wang, Fangyue Wei, Shuyu Guo, Xiaoting Che, Tian Bai*  
     accepted to *BIBM*, 2023.(CCF B)
 
-26. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
+27. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
     Lan Huang, Yuzhao Wang, Yingfang Zhang, Shuyu Guo, Ke Tao, Tian Bai*  
     accepted to *Expert Systems with Applications*, 2023.(中科院1区)
 
-27. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
+28. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
     白天, 周航, 杨诗睿, 闫国栋, 张睿  
     计算机教育, 2023(02):161-165.
 
