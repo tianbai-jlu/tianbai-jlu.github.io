@@ -18,93 +18,93 @@ h1 {
    Peng Ren, Cheng Jiang, Chuande Yang, Fuming Sun, Tian Bai*  
    accepted to *CVPR*, 2026.(CCF A)
 
-2. [DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model](https://ieeexplore.ieee.org/document/11387772)  
-   Zefan Zhang, Yanhui Li, Ruihong Zhao, Tian Bai*  
-   accepted to *IEEE Journal of Biomedical and Health Informatics*, 2026.(中科院1区)
-
-3. **Aware Distillation for Robust Vision-Language Tracking under Linguistic Sparsity**  
+2. **Aware Distillation for Robust Vision-Language Tracking under Linguistic Sparsity**  
    Guangtong Zhang, Bineng Zhong, Shirui Yang, Yang Wang, Tian Bai*  
    accepted to *AAAI*, 2026.(CCF A)
 
-4. **RWKV-Inspired Multi-model Relation Modeling for Vision-Language Tracking**  
+3. **RWKV-Inspired Multi-model Relation Modeling for Vision-Language Tracking**  
    Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai*  
    accepted to *IEEE Transactions on Multimedia*, 2025.(CCF A,中科院1区)
 
-5. **Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction**  
+4. **Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction**  
    Peng Ren, Cheng Jiang, Fuming Sun, Tian Bai*     
    accepted to *IEEE Transactions on Multimedia*, 2025.(CCF A,中科院1区)
 
-6. **HyperDTI-Lite: Hyperbolic Geometry for Enhanced Drug-Target Interaction Prediction via Heterogeneous Feature Fusion**  
-   Haotian Guan, Tian Bai, Tao Zhang, Chuande Yang, Jingtong Zhao, Han Wang*     
-   accepted to *BIBM*, 2025.(CCF B)
-
-7. [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf)  
+5. [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf)  
    Peng Ren, Tian Bai*, Jing Sun, Fuming Sun  
    accepted to *ICCV*, 2025.(CCF A)
 
-8. [Video-Level Multimodal Relation Extraction with Event-Entity Semantic Consistency](https://dl.acm.org/doi/abs/10.1145/3746027.3755557)  
+6. [Video-Level Multimodal Relation Extraction with Event-Entity Semantic Consistency](https://dl.acm.org/doi/abs/10.1145/3746027.3755557)  
    Zefan Zhang, Weiqi Zhang, Kailong Suo, Yanhui Li, Tian Bai*    
    accepted to *ACM MM*, 2025.(CCF A)
 
-9. [Dual-level Dynamic Heterogeneous Graph Network for Video Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009748)  
-   Zefan Zhang, Yanhui Li, Weiqi Zhang, Tian Bai*  
-   accepted to *Neural Networks*, 2025.(CCF B)
-
-10. [SSGraphDTI: A Drug-Target Interaction Prediction Method Integrated Structural and Dynamic Systemic Biology Attributes](https://pubmed.ncbi.nlm.nih.gov/40471736/)  
-    Haotian Guan, Tian Bai*, Jingtong Zhao, Wenhao Li, Han Wang  
-    accepted to *IEEE Journal of Biomedical and Health Informatics*, 2025.(中科院1区)
-
-11. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
-    Shuyu Guo, Lan Huang, Yuhao Mu, Bai Tian*  
-    accepted to *Journal of Computer Science and Technology*, 2025.(CCF B)
-
-12. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
-    Zefan Zhang, Yanhui Li, Weiqi Zhang, Bai Tian*  
-    accepted to *Knowledge and Information Systems*, 2025.(CCF B)
-
-13. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
-    Tian Bai, Kaile Bu, Chentao Gao, Huiling Chen*  
-    accepted to *Journal of Computational Design and Engineering*, 2025.(中科院2区)
-
-14. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
-    Peng Ren, Tian Bai*, Fuming Sun  
-    accepted to *Neural Networks*, 2025.(CCF B)
-
-15. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
-    Peng Ren, Tian Bai*, Fuming Sun  
-    accepted to *Knowledge-Based Systems*, 2025.(中科院1区)
-
-16. [Prototype-Guided Multimodal Relation Extraction based on Entity Attributes](https://ojs.aaai.org/index.php/AAAI/article/view/34795)  
+7. [Prototype-Guided Multimodal Relation Extraction based on Entity Attributes](https://ojs.aaai.org/index.php/AAAI/article/view/34795)  
     Zefan Zhang, Weiqi Zhang, Yanhui Li, Bai Tian*  
     accepted to *AAAI*, 2025.(CCF A)
 
-17. [MP: Endowing Large Language Models with Lateral Thinking](https://ojs.aaai.org/index.php/AAAI/article/view/34514)  
+8. [MP: Endowing Large Language Models with Lateral Thinking](https://ojs.aaai.org/index.php/AAAI/article/view/34514)  
     Bai Tian, Yongwang Cao, Yan Ge, Haitao Yu*  
     accepted to *AAAI*, 2025.(CCF A)
 
-18. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
-    Mingzhu Zhu, Shuyu Guo, Ziwei Wang, Jianhang Jiao, Tian Bai*  
-    accepted to *BIBM*, 2024.(CCF B)
-
-19. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
-    Ziwei Wang, Shuyu Guo, Mingzhu Zhu, Tian Bai*  
-    accepted to *BIBM*, 2024.(CCF B)
-
-20. [Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization](https://dl.acm.org/doi/10.1145/3664647.3681219)  
+9. [Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization](https://dl.acm.org/doi/10.1145/3664647.3681219)  
     Zefan Zhang, Weiqi Zhang, Yanhui Li, Tian Bai*  
     accepted to *ACM MM*, 2024.(CCF A)
 
-21. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
+10. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
+    Tian Bai*, Jiayu Xu, Zhenting Zhang, Shuyu Guo, Xiao Luo  
+    accepted to *Bioinformatics*, 2023.(CCF A)
+
+11. [DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model](https://ieeexplore.ieee.org/document/11387772)  
+    Zefan Zhang, Yanhui Li, Ruihong Zhao, Tian Bai*  
+    accepted to *IEEE Journal of Biomedical and Health Informatics*, 2026.(中科院1区)
+
+12. [Dual-level Dynamic Heterogeneous Graph Network for Video Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009748)  
+    Zefan Zhang, Yanhui Li, Weiqi Zhang, Tian Bai*  
+    accepted to *Neural Networks*, 2025.(CCF B)
+
+13. **HyperDTI-Lite: Hyperbolic Geometry for Enhanced Drug-Target Interaction Prediction via Heterogeneous Feature Fusion**  
+    Haotian Guan, Tian Bai, Tao Zhang, Chuande Yang, Jingtong Zhao, Han Wang*     
+    accepted to *BIBM*, 2025.(CCF B)
+
+14. [SSGraphDTI: A Drug-Target Interaction Prediction Method Integrated Structural and Dynamic Systemic Biology Attributes](https://pubmed.ncbi.nlm.nih.gov/40471736/)  
+    Haotian Guan, Tian Bai*, Jingtong Zhao, Wenhao Li, Han Wang  
+    accepted to *IEEE Journal of Biomedical and Health Informatics*, 2025.(中科院1区)
+
+15. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
+    Shuyu Guo, Lan Huang, Yuhao Mu, Bai Tian*  
+    accepted to *Journal of Computer Science and Technology*, 2025.(CCF B)
+
+16. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
+    Zefan Zhang, Yanhui Li, Weiqi Zhang, Bai Tian*  
+    accepted to *Knowledge and Information Systems*, 2025.(CCF B)
+
+17. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
+    Tian Bai, Kaile Bu, Chentao Gao, Huiling Chen*  
+    accepted to *Journal of Computational Design and Engineering*, 2025.(中科院2区)
+
+18. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
+    Peng Ren, Tian Bai*, Fuming Sun  
+    accepted to *Neural Networks*, 2025.(CCF B)
+
+19. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
+    Peng Ren, Tian Bai*, Fuming Sun  
+    accepted to *Knowledge-Based Systems*, 2025.(中科院1区)
+
+20. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
+    Mingzhu Zhu, Shuyu Guo, Ziwei Wang, Jianhang Jiao, Tian Bai*  
+    accepted to *BIBM*, 2024.(CCF B)
+
+21. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
+    Ziwei Wang, Shuyu Guo, Mingzhu Zhu, Tian Bai*  
+    accepted to *BIBM*, 2024.(CCF B)
+
+22. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
     Zhiyuan Cao, Jiayu Xu, Chengqi Dong, Peiwen Yu, Tian Bai*  
     accepted to *CIKM*, 2024.(CCF B)
 
-22. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
+23. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
     Fengzhi Zhao, Zhezhou Yu, He Zhao, Tao Wang, Tian Bai*  
     accepted to *Applied Intelligence*, 2024.(中科院2区)   
-
-23. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
-    Tian Bai*, Jiayu Xu, Zhenting Zhang, Shuyu Guo, Xiao Luo  
-    accepted to *Bioinformatics*, 2023.(CCF A)
 
 24. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
     Shuyu Guo, Lan Huang, Lang Li, Tian Bai*  
