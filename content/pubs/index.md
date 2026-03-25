@@ -70,59 +70,63 @@ h1 {
     Haotian Guan, Tian Bai*, Jingtong Zhao, Wenhao Li, Han Wang  
     accepted to *IEEE Journal of Biomedical and Health Informatics*, 2025.(中科院1区)
 
-15. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
+15. [Prompt-guided Orthogonal Multimodal Fusion for Cancer Survival Prediction](https://www.sciencedirect.com/science/article/pii/S0020025525003743)  
+    Lan Huang, Shuyu Guo, Tian Bai*, Ruihong Zhao, Ke Tao*  
+    accepted to *Information Sciences*, 2025.(CCF B,中科院1区)
+
+16. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
     Shuyu Guo, Lan Huang, Yuhao Mu, Bai Tian*  
     accepted to *Journal of Computer Science and Technology*, 2025.(CCF B)
 
-16. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
+17. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
     Zefan Zhang, Yanhui Li, Weiqi Zhang, Bai Tian*  
     accepted to *Knowledge and Information Systems*, 2025.(CCF B)
 
-17. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
+18. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
     Tian Bai, Kaile Bu, Chentao Gao, Huiling Chen*  
     accepted to *Journal of Computational Design and Engineering*, 2025.(中科院2区)
 
-18. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
+19. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
     Peng Ren, Tian Bai*, Fuming Sun  
     accepted to *Neural Networks*, 2025.(CCF B)
 
-19. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
+20. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
     Peng Ren, Tian Bai*, Fuming Sun  
     accepted to *Knowledge-Based Systems*, 2025.(中科院1区)
 
-20. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
+21. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
     Mingzhu Zhu, Shuyu Guo, Ziwei Wang, Jianhang Jiao, Tian Bai*  
     accepted to *BIBM*, 2024.(CCF B)
 
-21. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
+22. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
     Ziwei Wang, Shuyu Guo, Mingzhu Zhu, Tian Bai*  
     accepted to *BIBM*, 2024.(CCF B)
 
-22. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
+23. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
     Zhiyuan Cao, Jiayu Xu, Chengqi Dong, Peiwen Yu, Tian Bai*  
     accepted to *CIKM*, 2024.(CCF B)
 
-23. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
+24. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
     Fengzhi Zhao, Zhezhou Yu, He Zhao, Tao Wang, Tian Bai*  
     accepted to *Applied Intelligence*, 2024.(中科院2区)   
 
-24. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
+25. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
     Shuyu Guo, Lan Huang, Lang Li, Tian Bai*  
     accepted to *2023 IEEE International Conference on Medical Artificial Intelligence*, 2023.
 
-25. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
+26. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
     Tian Bai, Chu Li, Xinyue Peng, Haotian Guan, Zefan Zhang, Guishen Wang*  
     accepted to *BIBM*, 2023.(CCF B)
 
-26. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
+27. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
     Zhe Wang, Fangyue Wei, Shuyu Guo, Xiaoting Che, Tian Bai*  
     accepted to *BIBM*, 2023.(CCF B)
 
-27. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
+28. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
     Lan Huang, Yuzhao Wang, Yingfang Zhang, Shuyu Guo, Ke Tao, Tian Bai*  
     accepted to *Expert Systems with Applications*, 2023.(中科院1区)
 
-28. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
+29. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
     白天, 周航, 杨诗睿, 闫国栋, 张睿  
     计算机教育, 2023(02):161-165.
 
