@@ -139,6 +139,7 @@ user_groups:
   <div class="cv-content">
     <table>
       <tbody>
+        <tr><td>04/2026</td><td>A paper is accepted in <em><strong>IEEE Journal of Biomedical and Health Informatics</strong></em>.</td></tr>
         <tr><td>04/2026</td><td>A paper is accepted in <em><strong>Knowledge-Based Systems</strong></em>.</td></tr>
         <tr><td>04/2026</td><td>A paper is accepted in <em><strong>ACL</strong></em>.</td></tr>
         <tr><td>03/2026</td><td>A paper is accepted in <em><strong>IEEE Transactions on Multimedia</strong></em>.</td></tr>

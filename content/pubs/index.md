@@ -14,135 +14,139 @@ h1 {
 
 <input id="pub-search" type="text" placeholder="在代表论文中搜索关键字（题目、作者、期刊等）" style="display:block;width:100%;max-width:600px;padding:6px 10px;margin:12px auto;border-radius:4px;border:1px solid #ccc;font-size:0.95rem;">
 
-1. **CogECI: Context Grounded Document-level Event Causality Identification via Large Language Models**  
+1. **Consensus and Complementary Feature Guided Multi-modal Knowledge Distillation Network for Breast Cancer Diagnosis**  
+   Shuyu Guo, Lan Huang, Ke Tao, Ruihong Zhao, Tian Bai*  
+   accepted to *IEEE Journal of Biomedical and Health Informatics*, 2026.(中科院1区)
+
+2. **CogECI: Context Grounded Document-level Event Causality Identification via Large Language Models**  
    Zefan Zhang, Xumeng Zhang, Shijie Jiang, Tian Bai*   
    accepted to *Knowledge-Based Systems*, 2026.(中科院1区)
 
-2. [Text-to-TrajVis: Enabling Trajectory Data Visualizations from Natural Language Questions](https://arxiv.org/abs/2504.16358)      
+3. [Text-to-TrajVis: Enabling Trajectory Data Visualizations from Natural Language Questions](https://arxiv.org/abs/2504.16358)      
    Tian Bai, Huiyan Ying, Kailong Suo, Junqiu Wei, Tao Fan, Yuanfeng Song*  
    accepted to *ACL*, 2026.(CCF A)
 
-3. **Accurate Camouflaged Object Segmentation via Dual-Structural Cues Collaborative Learning**  
+4. **Accurate Camouflaged Object Segmentation via Dual-Structural Cues Collaborative Learning**  
    Peng Ren, Cheng Jiang, Tian Bai*  
    accepted to *IEEE Transactions on Multimedia*, 2026.(CCF A,中科院1区)
 
-4. **Selective distillation of language tokens for redundancy suppression in vision-language tracking**  
+5. **Selective distillation of language tokens for redundancy suppression in vision-language tracking**  
    Tian Bai, Shirui Yang, Yang Wang, Guangtong Zhang*   
    accepted to *Expert Systems with Applications*, 2026.(中科院1区)
 
-5. [RWKV-Inspired Multi-modal Relation Modeling for Vision-Language Tracking](https://ieeexplore.ieee.org/abstract/document/11417442)  
+6. [RWKV-Inspired Multi-modal Relation Modeling for Vision-Language Tracking](https://ieeexplore.ieee.org/abstract/document/11417442)  
    Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai*  
    accepted to *IEEE Transactions on Multimedia*, 2026.(CCF A,中科院1区)
 
-6. [Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction](https://ieeexplore.ieee.org/document/11417437)  
+7. [Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction](https://ieeexplore.ieee.org/document/11417437)  
    Peng Ren, Cheng Jiang, Fuming Sun, Tian Bai*     
    accepted to *IEEE Transactions on Multimedia*, 2026.(CCF A,中科院1区)
 
-7. **Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt**  
+8. **Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt**  
    Peng Ren, Cheng Jiang, Chuande Yang, Fuming Sun, Tian Bai*  
    accepted to *CVPR*, 2026.(CCF A)
 
-8. **Aware Distillation for Robust Vision-Language Tracking under Linguistic Sparsity**  
+9. **Aware Distillation for Robust Vision-Language Tracking under Linguistic Sparsity**  
    Guangtong Zhang, Bineng Zhong, Shirui Yang, Yang Wang, Tian Bai*  
    accepted to *AAAI*, 2026.(CCF A)
 
-9. [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf)  
-   Peng Ren, Tian Bai*, Jing Sun, Fuming Sun  
-   accepted to *ICCV*, 2025.(CCF A)
+10. [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf)  
+    Peng Ren, Tian Bai*, Jing Sun, Fuming Sun  
+    accepted to *ICCV*, 2025.(CCF A)
 
-10. [Video-Level Multimodal Relation Extraction with Event-Entity Semantic Consistency](https://dl.acm.org/doi/abs/10.1145/3746027.3755557)  
-   Zefan Zhang, Weiqi Zhang, Kailong Suo, Yanhui Li, Tian Bai*    
-   accepted to *ACM MM*, 2025.(CCF A)
+11. [Video-Level Multimodal Relation Extraction with Event-Entity Semantic Consistency](https://dl.acm.org/doi/abs/10.1145/3746027.3755557)  
+    Zefan Zhang, Weiqi Zhang, Kailong Suo, Yanhui Li, Tian Bai*    
+    accepted to *ACM MM*, 2025.(CCF A)
 
-11. [Prototype-Guided Multimodal Relation Extraction based on Entity Attributes](https://ojs.aaai.org/index.php/AAAI/article/view/34795)  
+12. [Prototype-Guided Multimodal Relation Extraction based on Entity Attributes](https://ojs.aaai.org/index.php/AAAI/article/view/34795)  
     Zefan Zhang, Weiqi Zhang, Yanhui Li, Bai Tian*  
     accepted to *AAAI*, 2025.(CCF A)
 
-12. [MP: Endowing Large Language Models with Lateral Thinking](https://ojs.aaai.org/index.php/AAAI/article/view/34514)  
+13. [MP: Endowing Large Language Models with Lateral Thinking](https://ojs.aaai.org/index.php/AAAI/article/view/34514)  
     Bai Tian, Yongwang Cao, Yan Ge, Haitao Yu*  
     accepted to *AAAI*, 2025.(CCF A)
 
-13. [Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization](https://dl.acm.org/doi/10.1145/3664647.3681219)  
+14. [Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization](https://dl.acm.org/doi/10.1145/3664647.3681219)  
     Zefan Zhang, Weiqi Zhang, Yanhui Li, Tian Bai*  
     accepted to *ACM MM*, 2024.(CCF A)
 
-14. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
+15. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
     Tian Bai*, Jiayu Xu, Zhenting Zhang, Shuyu Guo, Xiao Luo  
     accepted to *Bioinformatics*, 2023.(CCF A)
 
-15. [DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model](https://ieeexplore.ieee.org/document/11387772)  
+16. [DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model](https://ieeexplore.ieee.org/document/11387772)  
     Zefan Zhang, Yanhui Li, Ruihong Zhao, Tian Bai*  
     accepted to *IEEE Journal of Biomedical and Health Informatics*, 2026.(中科院1区)
 
-16. [Dual-level Dynamic Heterogeneous Graph Network for Video Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009748)  
+17. [Dual-level Dynamic Heterogeneous Graph Network for Video Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009748)  
     Zefan Zhang, Yanhui Li, Weiqi Zhang, Tian Bai*  
     accepted to *Neural Networks*, 2025.(CCF B)
 
-17. **HyperDTI-Lite: Hyperbolic Geometry for Enhanced Drug-Target Interaction Prediction via Heterogeneous Feature Fusion**  
+18. **HyperDTI-Lite: Hyperbolic Geometry for Enhanced Drug-Target Interaction Prediction via Heterogeneous Feature Fusion**  
     Haotian Guan, Tian Bai, Tao Zhang, Chuande Yang, Jingtong Zhao, Han Wang*     
     accepted to *BIBM*, 2025.(CCF B)
 
-18. [SSGraphDTI: A Drug-Target Interaction Prediction Method Integrated Structural and Dynamic Systemic Biology Attributes](https://pubmed.ncbi.nlm.nih.gov/40471736/)  
+19. [SSGraphDTI: A Drug-Target Interaction Prediction Method Integrated Structural and Dynamic Systemic Biology Attributes](https://pubmed.ncbi.nlm.nih.gov/40471736/)  
     Haotian Guan, Tian Bai*, Jingtong Zhao, Wenhao Li, Han Wang  
     accepted to *IEEE Journal of Biomedical and Health Informatics*, 2025.(中科院1区)
 
-19. [Prompt-guided Orthogonal Multimodal Fusion for Cancer Survival Prediction](https://www.sciencedirect.com/science/article/pii/S0020025525003743)  
+20. [Prompt-guided Orthogonal Multimodal Fusion for Cancer Survival Prediction](https://www.sciencedirect.com/science/article/pii/S0020025525003743)  
     Lan Huang, Shuyu Guo, Tian Bai*, Ruihong Zhao, Ke Tao*  
     accepted to *Information Sciences*, 2025.(CCF B)
 
-20. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
+21. [Unsupervised Adversarial Domain Adaptation with Hierarchical Semantic Consistency for Cross-Modal Nuclei Detection](https://link.springer.com/article/10.1007/s11390-025-4324-4)  
     Shuyu Guo, Lan Huang, Yuhao Mu, Bai Tian*  
     accepted to *Journal of Computer Science and Technology*, 2025.(CCF B)
 
-21. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
+22. [Prompting Visual Dialog with Implicit Logical Knowledge](https://link.springer.com/article/10.1007/s10115-025-02384-8)  
     Zefan Zhang, Yanhui Li, Weiqi Zhang, Bai Tian*  
     accepted to *Knowledge and Information Systems*, 2025.(CCF B)
 
-22. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
+23. [QGRIME: A RIME Optimizer with Quantum Rotation Gate and Gaussian Mutation for Feature Selection](https://academic.oup.com/jcde/article/12/2/235/8003773)  
     Tian Bai, Kaile Bu, Chentao Gao, Huiling Chen*  
     accepted to *Journal of Computational Design and Engineering*, 2025.(中科院2区)
 
-23. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
+24. [Bio-inspired Two-stage Network for Efficient RGB-D Salient Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001236)  
     Peng Ren, Tian Bai*, Fuming Sun  
     accepted to *Neural Networks*, 2025.(CCF B)
 
-24. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
+25. [ESNet: An Efficient Skeleton-guided Network for Camouflaged Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001030)  
     Peng Ren, Tian Bai*, Fuming Sun  
     accepted to *Knowledge-Based Systems*, 2025.(中科院1区)
 
-25. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
+26. [2D-3D Feature Co-Embedding Network with Sparse Annotation for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10821832)  
     Mingzhu Zhu, Shuyu Guo, Ziwei Wang, Jianhang Jiao, Tian Bai*  
     accepted to *BIBM*, 2024.(CCF B)
 
-26. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
+27. [Robust Federated Semi-Supervised Learning for Medical Image Classification via Pseudo-Label Filtering](https://ieeexplore.ieee.org/document/10822195)  
     Ziwei Wang, Shuyu Guo, Mingzhu Zhu, Tian Bai*  
     accepted to *BIBM*, 2024.(CCF B)
 
-27. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
+28. [MATCC: A Novel Approach for Robust Stock Price Prediction Incorporating Market Trends and Cross-time Correlations](https://dl.acm.org/doi/10.1145/3627673.3679715)  
     Zhiyuan Cao, Jiayu Xu, Chengqi Dong, Peiwen Yu, Tian Bai*  
     accepted to *CIKM*, 2024.(CCF B)
 
-28. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
+29. [Integrating grid features and geometric coordinates for enhanced image captioning](https://link.springer.com/article/10.1007/s10489-023-05198-9?)  
     Fengzhi Zhao, Zhezhou Yu, He Zhao, Tao Wang, Tian Bai*  
     accepted to *Applied Intelligence*, 2024.(中科院2区)   
 
-29. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
+30. [Nucleus Detection Based on Adversarial Domain Adaptation with Cross-Domain Consistency](https://ieeexplore.ieee.org/document/10403141)  
     Shuyu Guo, Lan Huang, Lang Li, Tian Bai*  
     accepted to *2023 IEEE International Conference on Medical Artificial Intelligence*, 2023.
 
-30. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
+31. [A Novel Drug-Drug Interaction Prediction Model Based on Line Subgraph Generation Strategy](https://ieeexplore.ieee.org/document/10385887)  
     Tian Bai, Chu Li, Xinyue Peng, Haotian Guan, Zefan Zhang, Guishen Wang*  
     accepted to *BIBM*, 2023.(CCF B)
 
-31. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
+32. [A Morphology Focused Cell Detection Model for Histopathology Images](https://ieeexplore.ieee.org/document/10385429)  
     Zhe Wang, Fangyue Wei, Shuyu Guo, Xiaoting Che, Tian Bai*  
     accepted to *BIBM*, 2023.(CCF B)
 
-32. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
+33. [Cross-domain endoscopic image translation and landmark detection based on consistency regularization cycle generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007716)  
     Lan Huang, Yuzhao Wang, Yingfang Zhang, Shuyu Guo, Ke Tao, Tian Bai*  
     accepted to *Expert Systems with Applications*, 2023.(中科院1区)
 
-33. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
+34. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
     白天, 周航, 杨诗睿, 闫国栋, 张睿  
     计算机教育, 2023(02):161-165.
 
