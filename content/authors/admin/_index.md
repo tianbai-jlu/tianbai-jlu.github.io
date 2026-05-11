@@ -139,6 +139,7 @@ user_groups:
   <div class="cv-content">
     <table>
       <tbody>
+        <tr><td>04/2026</td><td>A paper is accepted in <em><strong>Neural Networks</strong></em>.</td></tr>
         <tr><td>04/2026</td><td>A paper is accepted in <em><strong>IEEE Journal of Biomedical and Health Informatics</strong></em>.</td></tr>
         <tr><td>04/2026</td><td>A paper is accepted in <em><strong>Knowledge-Based Systems</strong></em>.</td></tr>
         <tr><td>04/2026</td><td>A paper is accepted in <em><strong>ACL</strong></em>.</td></tr>
@@ -173,6 +174,7 @@ user_groups:
   <div class="cv-content">
     <ul>
       <li>国家自然科学基金面上项目：面向肿瘤早期诊断的多模态数据语义关联挖掘研究，2026–2029</li>
+      <li>吉林省科技发展计划项目（长白山实验室科技创新项目）：精准调控下肢肌肉运动的脊髓接口时空编码软件开发，2026–2028</li>
       <li>国家自然科学基金联合基金子课题：多模态骨关节影像智能计算方法研究，2022–2025</li>
       <li>国家自然科学基金青年基金项目：混合型生物医学知识网络构建及隐性知识发现方法研究，2018–2020</li>
       <li>吉林省中青年科技创新卓越人才（团队）项目：多模态认知计算技术研究及生物医药应用，2024–2025</li>

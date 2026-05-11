@@ -130,6 +130,16 @@ sections:
             <img src="张光瞳.jpg" alt="Student Name" class="lab-member-photo">
             <div class="lab-member-name">张光瞳</div>
           </div>
+          <!-- 学生4 -->
+          <div class="lab-member-item">
+            <img src="常春雨.jpg" alt="Student Name" class="lab-member-photo">
+            <div class="lab-member-name">常春雨</div>
+          </div>
+          <!-- 学生4 -->
+          <div class="lab-member-item">
+            <img src="贾卿政.jpg" alt="Student Name" class="lab-member-photo">
+            <div class="lab-member-name">贾卿政</div>
+          </div>
         </div>
         
         <h2 style="color: #1e3a8a; margin-top: 40px; margin-bottom: 20px; text-align: center;">Master Student</h2>
