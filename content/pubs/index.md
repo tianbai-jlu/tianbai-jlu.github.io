@@ -146,7 +146,11 @@ h1 {
     Lan Huang, Yuzhao Wang, Yingfang Zhang, Shuyu Guo, Ke Tao, Tian Bai*  
     Expert Systems with Applications, 2023, 227: 120269.(中科院1区)
 
-34. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
+34. [Context-aware learning for cancer cell nucleus recognition in pathology images](https://academic.oup.com/bioinformatics/article/38/10/2892/6551249)  
+    Tian Bai, Jiayu Xu, Zhenting Zhang, Shuyu Guo, Xiao Luo   
+    Bioinformatics, 38(10): 2892–2898, 2022.(CCF A)
+
+35. [面向虚拟教研室建设的课程知识图谱构建和应用](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JYJS202302035&uniplatform=OVERSEA&v=TF4UENMUNG9DHzWx3ADbX5z6z6KXug1eKrp8sdQCoxgGJfO87D5rXM97_2F0uc4z)  
     白天, 周航, 杨诗睿, 闫国栋, 张睿  
     计算机教育, 2023(02):161-165.
 
